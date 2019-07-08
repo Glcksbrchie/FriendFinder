@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "4466846221",
+    "firebase_url": "https://eschfindr.firebaseio.com",
+    "project_id": "eschfindr",
+    "storage_bucket": "eschfindr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4466846221:android:e32d8e1606dcec24",
+        "android_client_info": {
+          "package_name": "com.esch.eschfindr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4466846221-8o6kqkks3rqes92aic4t9ukp8i9idgre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esch.eschfindr",
+            "certificate_hash": "5239f00d6509eb816b1d2d7c76e8cb438e6986e0"
+          }
+        },
+        {
+          "client_id": "4466846221-h55eb4ka0ntho4677mbomobq7vothpcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXGRX_MMM5nA_kG_8AG36Dg81ijmI_-bM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4466846221-h55eb4ka0ntho4677mbomobq7vothpcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EschFindr</string>
+    <string name="sign_in_cancelled">Abgebrochen</string>
+    <string name="no_internet_connection">Kein Internetz</string>
+    <string name="unknown_error">Alles kaputt</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="verifying">verifying user data</string>
+    <string name="title_logout">Logout</string>
+    <string name="menu_requests">Requests</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_friends">Friends</string>
+    <string name="user_img_name">UserIMG</string>
+    <string name="no_requests">No requests</string>
+</resources>
